@@ -16,7 +16,7 @@ var timeline_config = {
   //debug:              true,                           //OPTIONAL DEBUG TO CONSOLE
   lang:               'zh-cn',                           //OPTIONAL LANGUAGE
   maptype:            'watercolor',                   //OPTIONAL MAP STYLE
-  //css:                '/timeline.css',     //OPTIONAL PATH TO CSS
+  css:                'http://cdn.staticfile.org/timelinejs/2.29.0/css/timeline.css',     //OPTIONAL PATH TO CSS
   js:                 'http://cdn.staticfile.org/timelinejs/2.29.0/js/timeline-min.js'    //OPTIONAL PATH TO JS
 };
 &lt;/script&gt;
