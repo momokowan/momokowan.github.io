@@ -2,16 +2,16 @@
 	"timeline":{
 		"headline":"丸子家...",
 		"type":"default",
-		"text":"巴巴回顾牛妞怎么来的",
-		"startDate":"2013,01,18",
+		"text":"巴巴帮麻麻回顾牛妞怎么蹦粗来地...",
+		"startDate":"2007,09,18",
 		"date":[
 			{
 				"id":"1",
-				"startDate":"2013,09,25",
-				"headline":"南京三川篷房制造有限公司 新产品推广",
-				"text":"",
+				"startDate":"2008,04,20",
+				"headline":"浣熊在广东阳江登陆",
+				"text":"号称龙王的麻麻经常吼些奇怪的小伙伴来玩...",
 				"asset":{
-					"media":"http://sanchuan.pavilion-china.com/uploaded/news/11.jpg"
+					"media":"http://s6.sinaimg.cn/bmiddle/49f8291e44b47a47d3535"
 				}
 			},
 			{
@@ -43,14 +43,15 @@
 				}
 			}
 		],
+        
         "era": [
             {
-                "startDate":"2011,12,10",
-                "endDate":"2011,12,11",
+                "startDate":"2011,11,11",
+                "endDate":"2011,11,11",
                 "headline":"Headline Goes Here",
-                "text":"<p>Body text goes here, some HTML is OK</p>",
-                "tag":"This is Optional"
+                "text":"<p>神奇的是...</p>",
             }
         ]
+
 	}
 }
