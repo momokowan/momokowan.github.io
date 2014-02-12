@@ -17,11 +17,13 @@ var timeline_config = {
   lang:               'zh-cn',                           //OPTIONAL LANGUAGE
   maptype:            'watercolor',                   //OPTIONAL MAP STYLE
   //css:                '/timeline.css',     //OPTIONAL PATH TO CSS
-  js:                 '/timeline.js'    //OPTIONAL PATH TO JS
+  js:                 'http://cdn.staticfile.org/timelinejs/2.29.0/js/timeline-min.js'    //OPTIONAL PATH TO JS
 };
 &lt;/script&gt;
 
-&lt;script type="text/javascript" src="http://cdn.knightlab.com/libs/timeline/latest/js/storyjs-embed.js?v214"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" 
+  src="http://cdn.staticfile.org/timelinejs/2.29.0/js/storyjs-embed.js"&gt;
+&lt;/script&gt;
 
 &lt;!-- 我是你的小小狗 -- 阿牛 --&gt;
 
