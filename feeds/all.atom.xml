@@ -17,8 +17,8 @@ var timeline_config = {
   //lang:               'zh-cn',                           //OPTIONAL LANGUAGE
   //lang:               'http://cdn.staticfile.org/timelinejs/2.29.0/js/locale/zh-cn.js',
   //maptype:            'watercolor',                   //OPTIONAL MAP STYLE
-  //css:                'http://cdn.staticfile.org/timelinejs/2.29.0/css/timeline.css',     //OPTIONAL PATH TO CSS
-  //js:                 'http://cdn.staticfile.org/timelinejs/2.29.0/js/timeline-min.js'    //OPTIONAL PATH TO JS
+  css:                'http://cdn.staticfile.org/timelinejs/2.24/css/timeline.css',     //OPTIONAL PATH TO CSS
+  js:                 'http://cdn.staticfile.org/timelinejs/2.24/js/timeline-min.js'    //OPTIONAL PATH TO JS
 };
 &lt;/script&gt;
 
