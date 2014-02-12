@@ -22,15 +22,17 @@ var timeline_config = {
 };
 &lt;/script&gt;
 
-&lt;script type="text/javascript" 
-  src="http://cdn.staticfile.org/timelinejs/2.29.0/js/storyjs-embed.js"&gt;
-&lt;/script&gt;
+&lt;script type="text/javascript" src="http://sanchuan.pavilion-china.com/asset/timeline/js/storyjs-embed.js"&gt;&lt;/script&gt;
 
 &lt;!-- 我是你的小小狗 -- 阿牛 
 wmode="opaque"
- width="235" height="346"--&gt;
+ width="235" height="346"
+&lt;script type="text/javascript" 
+  src="http://cdn.staticfile.org/timelinejs/2.29.0/js/storyjs-embed.js"&gt;
+&lt;/script&gt;
+--&gt;
 
-&lt;p&gt;&lt;embed src="http://www.xiami.com/widget/5407369_766,_235_346_cccccc_dddddd_1/multiPlayer.swf" type="application/x-shockwave-flash" width="235" height="346" wmode="opaque"&gt;&lt;/embed&gt;&lt;/p&gt;
+&lt;p&gt;&lt;embed src="http://www.xiami.com/widget/5407369_766,_235_346_cccccc_dddddd_1/multiPlayer.swf" type="application/x-shockwave-flash" width="0" height="0" wmode="opaque"&gt;&lt;/embed&gt;&lt;/p&gt;
 &lt;!--
 
     88888888888 d8b                        888 d8b                888888   d8888b  
