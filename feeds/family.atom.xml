@@ -12,9 +12,10 @@ var timeline_config = {
   start_at_slide:     '1',                            //OPTIONAL START AT SPECIFIC SLIDE
   start_zoom_adjust:  '1',                            //OPTIONAL TWEAK THE DEFAULT ZOOM LEVEL
   hash_bookmark:      true,                           //OPTIONAL LOCATION BAR HASHES
-  font:               'Bevan-PotanoSans',             //OPTIONAL FONT
+  //font:               'Bevan-PotanoSans',             //OPTIONAL FONT
+  font:               'http://cdn.staticfile.org/timelinejs/2.29.0/css/themes/font/Bevan-PotanoSans.css',
   //debug:              true,                           //OPTIONAL DEBUG TO CONSOLE
-  lang:               'zh-cn',                           //OPTIONAL LANGUAGE
+  //lang:               'zh-cn',                           //OPTIONAL LANGUAGE
   maptype:            'watercolor',                   //OPTIONAL MAP STYLE
   css:                'http://cdn.staticfile.org/timelinejs/2.29.0/css/timeline.css',     //OPTIONAL PATH TO CSS
   js:                 'http://cdn.staticfile.org/timelinejs/2.29.0/js/timeline-min.js'    //OPTIONAL PATH TO JS
