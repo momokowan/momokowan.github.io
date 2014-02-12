@@ -13,7 +13,7 @@ var timeline_config = {
   start_zoom_adjust:  '1',                            //OPTIONAL TWEAK THE DEFAULT ZOOM LEVEL
   hash_bookmark:      true,                           //OPTIONAL LOCATION BAR HASHES
   font:               'Bevan-PotanoSans',             //OPTIONAL FONT
-  debug:              true,                           //OPTIONAL DEBUG TO CONSOLE
+  //debug:              true,                           //OPTIONAL DEBUG TO CONSOLE
   lang:               'zh-cn',                           //OPTIONAL LANGUAGE
   maptype:            'watercolor',                   //OPTIONAL MAP STYLE
   //css:                '/timeline.css',     //OPTIONAL PATH TO CSS
