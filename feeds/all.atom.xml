@@ -2,8 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>MOMOKO.in</title><link href="http://MOMOKO.in/" rel="alternate"></link><link href="http://MOMOKO.in/feeds/all.atom.xml" rel="self"></link><id>http://MOMOKO.in/</id><updated>2014-02-10T00:00:00+08:00</updated><entry><title>领导s, 情人节快乐;-)</title><link href="http://MOMOKO.in/family/family-timeline.html" rel="alternate"></link><updated>2014-02-10T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2014-02-10:family/family-timeline.html</id><summary type="html">&lt;div id="timeline-embed"&gt;&lt;/div&gt;
 
 &lt;script&gt;
-$(document).ready(function() {
-var timeline_config ={
+var timeline_config = {
     width:      '100%',
     height:     '600',
     source:     '0AgPxePCteZKodE82R2NCdzZjcWNZcy1VYk9aYWgzcUE',
@@ -12,9 +11,7 @@ var timeline_config ={
     lang:       '/sanchuan_zh-ch.js',
     css:        '/sanchuan_timeline.css',
     js:         '/sanchuan_timeline-min.js',
-
-    };
-});
+    }
 &lt;/script&gt;
 
 &lt;script type="text/javascript" src="/sanchuan_storyjs-embed.js"&gt;&lt;/script&gt;
