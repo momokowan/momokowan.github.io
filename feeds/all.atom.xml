@@ -14,7 +14,7 @@ var timeline_config = {
   hash_bookmark:      true,                           //OPTIONAL LOCATION BAR HASHES
   font:               'Bevan-PotanoSans',             //OPTIONAL FONT
   debug:              true,                           //OPTIONAL DEBUG TO CONSOLE
-  //lang:               'zh',                           //OPTIONAL LANGUAGE
+  lang:               'zh-cn',                           //OPTIONAL LANGUAGE
   maptype:            'watercolor',                   //OPTIONAL MAP STYLE
   //css:                '/timeline.css',     //OPTIONAL PATH TO CSS
   js:                 '/timeline.js'    //OPTIONAL PATH TO JS
