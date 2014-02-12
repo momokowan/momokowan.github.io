@@ -22,7 +22,7 @@ var timeline_config = {
 };
 &lt;/script&gt;
 
-&lt;script type="text/javascript" src="http://sanchuan.pavilion-china.com/asset/timeline/js/storyjs-embed.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="/storyjs-embed.js"&gt;&lt;/script&gt;
 
 &lt;!-- 我是你的小小狗 -- 阿牛 
 wmode="opaque"
