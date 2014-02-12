@@ -31,9 +31,6 @@ var timeline_config = {
 &lt;script type="text/javascript" src="/storyjs-embed_2.29.1.js"&gt;&lt;/script&gt;
 wmode="opaque"
  width="235" height="346"
-&lt;script type="text/javascript" 
-  src="http://cdn.staticfile.org/timelinejs/2.29.0/js/storyjs-embed.js"&gt;
-&lt;/script&gt;
 --&gt;
 
 &lt;p&gt;&lt;embed src="http://www.xiami.com/widget/5407369_766,_235_346_cccccc_dddddd_1/multiPlayer.swf" type="application/x-shockwave-flash" width="0" height="0" wmode="opaque"&gt;&lt;/embed&gt;&lt;/p&gt;
