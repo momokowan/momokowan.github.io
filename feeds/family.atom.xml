@@ -3,12 +3,16 @@
 
 &lt;script&gt;
 $(document).ready(function() {
-    createStoryJS({
-        type:       'timeline',
-        embed_id:   'timeline-embed',
-        width:      '100%',
-        height:     '600',
-        source:     'https://spreadsheets.google.com/feeds/list/0AgPxePCteZKodE82R2NCdzZjcWNZcy1VYk9aYWgzcUE/od6/public/basic?hl=en_US&amp;alt=json',
+createStoryJS({
+    type:       'timeline',
+    embed_id:   'timeline-embed',
+    width:      '100%',
+    height:     '600',
+    source:     'https://spreadsheets.google.com/feeds/list/0AgPxePCteZKodE82R2NCdzZjcWNZcy1VYk9aYWgzcUE/od6/public/basic?hl=en_US&amp;alt=json',
+    lang:       'http://cdn.staticfile.org/timelinejs/2.29.0/js/locale/zh-cn.js',
+    css:        'http://cdn.staticfile.org/timelinejs/2.29.0/css/timeline.css',
+    js:         'http://cdn.staticfile.org/timelinejs/2.29.0/js/timeline-min.js'
+
     });
 });
 &lt;/script&gt;
