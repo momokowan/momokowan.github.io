@@ -1,0 +1,30 @@
+{
+	"timeline":{
+		"headline":"丸子家...",
+		"type":"default",
+		"text":"巴巴帮麻麻回顾牛妞怎么蹦粗来地...",
+		"startDate":"2007,09,18",
+		"date":[
+			{
+				"id":"1",
+				"startDate":"2008,04,20",
+				"headline":"浣熊在广东阳江登陆",
+				"text":"号称龙王的麻麻经常吼些奇怪的小伙伴来玩...",
+				"media":"http://zoomq.qiniudn.com/ZQCollection/img/yw_flat-earth.png",
+				"asset":{
+					"media":"http://zoomq.qiniudn.com/ZQCollection/img/yw_flat-earth.png"
+				}
+			},
+		],
+        
+        "era": [
+            {
+                "startDate":"2011,11,11",
+                "endDate":"2011,11,11",
+                "headline":"Headline Goes Here",
+                "text":"<p>神奇的是...</p>",
+            }
+        ]
+
+	}
+}
