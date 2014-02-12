@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://MOMOKO.in/index.html</loc>
-<lastmod>2014-02-12T19:09:22-00:00</lastmod>
+<lastmod>2014-02-12T19:10:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://MOMOKO.in/archives.html</loc>
-<lastmod>2014-02-12T19:09:22-00:00</lastmod>
+<lastmod>2014-02-12T19:10:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://MOMOKO.in/categories.html</loc>
-<lastmod>2014-02-12T19:09:22-00:00</lastmod>
+<lastmod>2014-02-12T19:10:52-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,7 +32,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://MOMOKO.in/chaos/family-timeline.html</loc>
+<loc>http://MOMOKO.in/family/family-timeline.html</loc>
 <lastmod>2014-02-10T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -53,13 +53,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://MOMOKO.in/chaos/index.html</loc>
-<lastmod>2014-02-10T00:00:00-00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://MOMOKO.in/events/index.html</loc>
 <lastmod>2008-07-24T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
@@ -68,7 +61,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://MOMOKO.in/family/index.html</loc>
-<lastmod>2008-11-18T00:00:00-00:00</lastmod>
+<lastmod>2014-02-10T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
