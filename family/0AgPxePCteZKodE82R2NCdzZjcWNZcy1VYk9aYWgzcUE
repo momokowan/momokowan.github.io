@@ -110,11 +110,67 @@
 				}
 			},
 			{
+				"startDate":"2008,01,11",
+				"headline":"第一次参加春晩",
+				"text":"巴巴还导演了另外一部戏...",
+				"asset":{
+					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/080111.png"
+				}
+			},
+			{
+				"startDate":"2008,01,13",
+				"headline":"而麻麻是总导演!",
+				"text":"就这样认识了还不是麻麻的麻麻...",
+				"asset":{
+					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/080217.png"
+				}
+			},
+			{
+				"startDate":"2008,02,04",
+				"headline":"在成都",
+				"text":"巴巴还需要借酒才能跟麻麻说的上话...",
+				"asset":{
+					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/080204.png"
+				}
+			},
+			{
+				"startDate":"2008,02,17",
+				"headline":"第一次在珠海过年",
+				"text":"而且认识了还不是麻麻的麻麻...",
+				"asset":{
+					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/080217.png"
+				}
+			},
+			{
+				"startDate":"2008,04,04",
+				"headline":"第一次被人发现",
+				"text":"巴巴和还不是麻麻的麻麻...在一起",
+				"asset":{
+					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/080404.png"
+				}
+			},
+			{
 				"startDate":"2008,04,20",
 				"headline":"这是牛妞的表哥!",
-				"text":"当然,这时候还没有牛妞,但是,牛妞的到来确和俊俊表哥有关系的呢...",
+				"text":"当然,这时候还没有牛妞,但是,牛妞的到来确和俊俊表哥有关系的啍...",
 				"asset":{
 					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/080420.jpg"
+				}
+			},
+			{
+				"startDate":"2008,09,13",
+				"headline":"这是佛山的观音姐姐",
+				"text":"因为大姨妈没空,所以,托巴巴和还不是麻麻的麻麻去还愿,感谢观音姐姐给大姨妈送来了俊俊;观音是很好的,只是有点儿近视,将还不是麻麻的麻麻认成了大姨妈,于是...",
+				"asset":{
+					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/080913.png"
+				}
+			},
+			{
+				"startDate":"2008,10,19",
+				"headline":"就是观音姐姐作的好事儿!",
+				"text":"以为还不是麻麻的麻麻肚子忽然难受,到医院到看...",
+				"asset":{
+					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/081019.png"
 				}
 			}
 
