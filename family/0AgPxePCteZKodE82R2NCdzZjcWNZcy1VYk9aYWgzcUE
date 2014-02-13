@@ -8,9 +8,17 @@
 			{
 				"startDate":"1995,05,05",
 				"headline":"麻麻从小就是美人儿",
-				"text":"...",
+				"text":"不过那时候巴巴还不认识麻麻...",
 				"asset":{
 					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/950505.png"
+				}
+			},
+			{
+				"startDate":"2002,02,02",
+				"headline":"巴巴一直一个人",
+				"text":"慢慢看世界...",
+				"asset":{
+					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/020202_eyes.jpg"
 				}
 			}
 		]
