@@ -295,11 +295,18 @@
 			},
 			{
 				"startDate":"2008,08,17",
-				"headline":"蔬菜Pizza和真正的饼",
+				"headline":"蔬菜Pizza",
 				"text":"麻麻还会作好吃的...暗示巴巴...",
 				"asset":{
-					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/080817.jpg",
 					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/080817_1.jpg"
+				}
+			},
+			{
+				"startDate":"2008,08,17",
+				"headline":"和真正的饼",
+				"text":"麻麻还会作好吃的...暗示巴巴...",
+				"asset":{
+					"media":"http://zoomq.qiniudn.com/ZQCollection/tl4momoko/080817.jpg"
 				}
 			},
 			{
