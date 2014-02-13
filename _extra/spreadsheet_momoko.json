@@ -1,30 +1,50 @@
 {
 	"timeline":{
-		"headline":"丸子家...",
+		"headline":"三川篷房大事记",
 		"type":"default",
-		"text":"巴巴是怎么搞掂麻麻绝代风华的?...益rz",
-		"startDate":"1990,05,05",
+		"text":"展示三川篷房所有的大事和新闻",
+		"startDate":"2013,01,18",
 		"date":[
 			{
-				"id":"130925",
+				"id":"1",
 				"startDate":"2013,09,25",
-				"headline":" 新产品推广",
-				"text":"南京境中使用。并具有坚实、耐用、抗折、不起皮、抗暴晒、抗风性强等特点。",
-				"media":"http://zoomq.qiniudn.com/ZQCollection/img/yw_flat-earth.png",
+				"headline":"南京三川篷广",
+				"text":"南京三川篷房有限公温耐寒帐篷较适合在北部地区春冬昼夜温差大、条件恶劣等环境中使用。并具有坚实、耐用、抗折、不起皮、抗暴晒、抗风性强等特点。",
+				"media":"http://sanchuan.pavilion-china.com/uploaded/news/11.jpg",
 				"asset":{
-					"media":"http://zoomq.qiniudn.com/ZQCollection/img/yw_flat-earth.png"
+					"media":"http://sanchuan.pavilion-china.com/uploaded/news/11.jpg"
 				}
 			},
 			{
-				"id":"131029",
+				"id":"5",
 				"startDate":"2013,10,29",
-				"headline":"三川房”收获丰盛，品牌效应大放光彩！",
-				"text":"    201戈雷",
+				"headline":"三川篷品牌效应大放光彩！",
+				"text":"  效益和社会效应！ 撰文：外贸部 戈雷",
 				"media":"http://sanchuan.pavilion-china.com/uploaded/news/20131027_0920322.jpg",
 				"asset":{
 					"media":"http://sanchuan.pavilion-china.com/uploaded/news/20131027_0920322.jpg"
 				}
 			},
+			{
+				"id":"9",
+				"startDate":"2013,11,05",
+				"headline":"旅游餐饮，让您尽享草原风情",
+				"text":"南京三川篷房制体接待食宿的集体活动和宴会。发布部门：企划部 ",
+				"media":"http://sanchuan.pavilion-china.com/uploaded/news/QQ图片20131106103157.jpg",
+				"asset":{
+					"media":"http://sanchuan.pavilion-china.com/uploaded/news/QQ图片20131106103157.jpg"
+				}
+			},
+			{
+				"id":"12",
+				"startDate":"2013,11,13",
+				"headline":"台风“海燕”逞威",
+				"text":"11月7日-8日京三川篷房制造有限公司欢迎您的订购！！！",
+				"media":"",
+				"asset":{
+					"media":""
+				}
+			}
 		]
 	}
 }
