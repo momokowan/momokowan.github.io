@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MOMOKO.in</title><link href="http://MOMOKO.in/" rel="alternate"></link><link href="http://MOMOKO.in/feeds/family.atom.xml" rel="self"></link><id>http://MOMOKO.in/</id><updated>2014-02-10T00:00:00+08:00</updated><entry><title>领导s, 情人节快乐;-)</title><link href="http://MOMOKO.in/family/family-timeline.html" rel="alternate"></link><updated>2014-02-10T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2014-02-10:family/family-timeline.html</id><summary type="html">&lt;div id="timeline-embed"&gt;&lt;/div&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MOMOKO.in</title><link href="http://MOMOKO.in/" rel="alternate"></link><link href="http://MOMOKO.in/feeds/family.atom.xml" rel="self"></link><id>http://MOMOKO.in/</id><updated>2014-02-10T00:00:00+08:00</updated><entry><title>领导s, 情人节快乐;-)</title><link href="http://MOMOKO.in/family/family-timeline.html" rel="alternate"></link><updated>2014-02-10T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2014-02-10:family/family-timeline.html</id><summary type="html">&lt;!--
+    88888888888 d8b                        888 d8b                888888   d8888b  
+        888     Y8P                        888 Y8P                   88b d88P  Y88b 
+        888                                888                       888 Y88b
+        888     888 88888b d88b     d88b   888 888 88888b     d88b   888   Y888b
+        888     888 888  888  88b d8P  Y8b 888 888 888  88b d8P  Y8b 888      Y88b
+        888     888 888  888  888 88888888 888 888 888  888 88888888 888        888 
+        888     888 888  888  888 Y8b      888 888 888  888 Y8b      88P Y88b  d88P 
+        888     888 888  888  888   Y8888  888 888 888  888   Y8888  888   Y8888P
+                                                                    d88P            
+                                                                  d88P             
+                                                                888P              
+--&gt;
+
+&lt;div id="timeline-embed"&gt;&lt;/div&gt;
 
 &lt;script&gt;
 var timeline_config = {
@@ -16,19 +30,9 @@ var timeline_config = {
 
 &lt;script type="text/javascript" src="/sanchuan_storyjs-embed.js"&gt;&lt;/script&gt;
 
-&lt;!--
-    88888888888 d8b                        888 d8b                888888   d8888b  
-        888     Y8P                        888 Y8P                   88b d88P  Y88b 
-        888                                888                       888 Y88b
-        888     888 88888b d88b     d88b   888 888 88888b     d88b   888   Y888b
-        888     888 888  888  88b d8P  Y8b 888 888 888  88b d8P  Y8b 888      Y88b
-        888     888 888  888  888 88888888 888 888 888  888 88888888 888        888 
-        888     888 888  888  888 Y8b      888 888 888  888 Y8b      88P Y88b  d88P 
-        888     888 888  888  888   Y8888  888 888 888  888   Y8888  888   Y8888P
-                                                                    d88P            
-                                                                  d88P             
-                                                                888P              
-     --&gt;</summary></entry><entry><title>Zoom.Quiuet</title><link href="http://MOMOKO.in/family/zoomquiet.html" rel="alternate"></link><updated>2008-11-18T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2008-11-18:family/zoomquiet.html</id><summary type="html">&lt;h1 id="_1"&gt;巴巴&lt;/h1&gt;
+&lt;!-- 我是你的小小狗 ~ 阿牛 --&gt;
+
+&lt;p&gt;&lt;embed src="http://www.xiami.com/widget/5407369_766,_235_346_cccccc_dddddd_1/multiPlayer.swf" type="application/x-shockwave-flash" width="0" height="0" wmode="opaque"&gt;&lt;/embed&gt;&lt;/p&gt;</summary></entry><entry><title>Zoom.Quiuet</title><link href="http://MOMOKO.in/family/zoomquiet.html" rel="alternate"></link><updated>2008-11-18T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2008-11-18:family/zoomquiet.html</id><summary type="html">&lt;h1 id="_1"&gt;巴巴&lt;/h1&gt;
 &lt;p&gt;&lt;img alt="ZQ" src="http://pyconcn.qiniudn.com/images/volunteer/zhouqi.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Python中文社区创始人(之一) / 管理员,
 热心于 Python 等等社区的公益事业, 大家熟知的社区"大妈";&lt;/p&gt;

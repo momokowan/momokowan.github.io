@@ -1,6 +1,22 @@
 @import url("pygment.css");
 @import url(http://fonts.googleapis.com/css?family=Overlock:400,700,900);
 @import url(http://fonts.googleapis.com/css?family=PT+Mono);
+
+#banner h1 a sup {
+    display: inline;
+    font-size: 10px;
+    font-weight: 600;
+    color: #525252;
+    background: #d8d8d8;
+    line-height: 12px;
+    position: relative;
+    border-radius: 7px 0px 7px 0;
+    padding: 0px 5px 0 3px;
+    top: -23px;
+    left: -5px;
+}
+
+
 /* Name: Fresh Date: February 2013 Description: A Pelican theme with clean layout. Based on Smashing HTML5 and Twitter Bootstrap. Version: 1.0.0 Author: Jui-Shan Liang Author URI: http://jsliang.com */
 body { color: #333; font-size: 15px; font-family: "Lucida Sans", sans-serif; line-height: 22.5px; margin: 0; padding: 0; text-align: left; }
 
@@ -90,7 +106,7 @@ li:last-child .hentry { border: 0; margin: 0; }
 #add-comment input[type='text'], #add-comment input[type='email'], #add-comment input[type='url'] { float: left; }
 #add-comment textarea { float: left; height: 150px; }
 #add-comment p.req { clear: both; margin: 0 0.5em 1em 0; text-align: right; }
-#add-comment input[type='submit'] { float: right; margin: 0 0.5em; }
+#add-comment input[type='barbmit'] { float: right; margin: 0 0.5em; }
 #add-comment * { margin-bottom: .5em; }
 
 .err { border: 0; }
