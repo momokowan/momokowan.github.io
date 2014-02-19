@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>MoMoKo.in</title><link href="http://MOMOKO.in/" rel="alternate"></link><link href="http://MOMOKO.in/feeds/all.atom.xml" rel="self"></link><id>http://MOMOKO.in/</id><updated>2014-02-10T00:00:00+08:00</updated><entry><title>大小丸子🐒:"情人节快乐;-)"</title><link href="http://MOMOKO.in/family/family-timeline.html" rel="alternate"></link><updated>2014-02-10T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2014-02-10:family/family-timeline.html</id><summary type="html">&lt;!--
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MoMoKo.in</title><link href="http://MOMOKO.in/" rel="alternate"></link><link href="http://MOMOKO.in/feeds/all.atom.xml" rel="self"></link><id>http://MOMOKO.in/</id><updated>2014-02-16T00:00:00+08:00</updated><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-140216.html" rel="alternate"></link><updated>2014-02-16T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2014-02-16:niuniu/nnsay-140216.html</id><summary type="html">&lt;h1 id="140216"&gt;140216&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;为什么爸爸妈妈总是把好东西让给我吃？！&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-140214.html" rel="alternate"></link><updated>2014-02-14T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2014-02-14:niuniu/nnsay-140214.html</id><summary type="html">&lt;h1 id="140214"&gt;140214&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;妈妈，我上小学时，你还能活的嘛？！&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>大小丸子🐒:"情人节快乐;-)"</title><link href="http://MOMOKO.in/family/family-timeline.html" rel="alternate"></link><updated>2014-02-10T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2014-02-10:family/family-timeline.html</id><summary type="html">&lt;!--
     88888888888 d8b                        888 d8b                888888   d8888b  
         888     Y8P                        888 Y8P                   88b d88P  Y88b 
         888                                888                       888 Y88b
@@ -32,7 +38,123 @@ var timeline_config = {
 
 &lt;!-- 我是你的小小狗 ~ 阿牛 --&gt;
 
-&lt;p&gt;&lt;embed src="http://www.xiami.com/widget/5407369_766,_235_346_cccccc_dddddd_1/multiPlayer.swf" type="application/x-shockwave-flash" width="0" height="0" wmode="opaque"&gt;&lt;/embed&gt;&lt;/p&gt;</summary></entry><entry><title>Zoom.Quiuet</title><link href="http://MOMOKO.in/family/zoomquiet.html" rel="alternate"></link><updated>2008-11-18T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2008-11-18:family/zoomquiet.html</id><summary type="html">&lt;h1 id="_1"&gt;巴巴&lt;/h1&gt;
+&lt;p&gt;&lt;embed src="http://www.xiami.com/widget/5407369_766,_235_346_cccccc_dddddd_1/multiPlayer.swf" type="application/x-shockwave-flash" width="0" height="0" wmode="opaque"&gt;&lt;/embed&gt;&lt;/p&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-140202.html" rel="alternate"></link><updated>2014-02-02T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2014-02-02:niuniu/nnsay-140202.html</id><summary type="html">&lt;h1 id="140202"&gt;140202&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;妈妈，我能吃一口你的最爱嘛？！&lt;/li&gt;
+&lt;li&gt;你都吃了吧！&lt;/li&gt;
+&lt;li&gt;妈妈对我真好啊！&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-140127.html" rel="alternate"></link><updated>2014-01-27T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2014-01-27:niuniu/nnsay-140127.html</id><summary type="html">&lt;h1 id="140127"&gt;140127&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;妞：妈妈，00妈妈是要去日本了吗？&lt;/li&gt;
+&lt;li&gt;妈：是的&lt;/li&gt;
+&lt;li&gt;妞：妈妈，你能让00妈妈给我抓一只多拉A梦回来吗？&lt;/li&gt;
+&lt;li&gt;妈：好的，我和她商量一下&lt;/li&gt;
+&lt;li&gt;妞：我要的是真的多拉A梦&lt;/li&gt;
+&lt;li&gt;妈：哦，那不用了，妈妈就是多拉A梦！&lt;/li&gt;
+&lt;li&gt;妞：妈妈你骗人，你的肚皮上又没有口袋&lt;/li&gt;
+&lt;li&gt;妈：我告诉你一个秘密，00妈妈是多拉A梦！&lt;/li&gt;
+&lt;li&gt;妞：真的吗？可是我有一点害怕！&lt;/li&gt;
+&lt;li&gt;妈：怕什么？你不是想要一个真的多拉A梦吗？&lt;/li&gt;
+&lt;li&gt;妞：我不想00妈妈变成蓝色的！&lt;/li&gt;
+&lt;li&gt;妈：……&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-131217.html" rel="alternate"></link><updated>2013-12-17T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2013-12-17:niuniu/nnsay-131217.html</id><summary type="html">&lt;h1 id="131217"&gt;131217&lt;/h1&gt;
+&lt;p&gt;最搞笑的是出门上车前不肯打伞，理由是小花口渴了要浇点水！[晕]&lt;/p&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-131029.html" rel="alternate"></link><updated>2013-12-09T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2013-12-09:niuniu/nnsay-131029.html</id><summary type="html">&lt;h1 id="131029"&gt;131029&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;快起来！我流血了！
+(急吼吼起来乱翻…)&lt;/li&gt;
+&lt;li&gt;妈妈！给你止血贴！&lt;/li&gt;
+&lt;li&gt;咦？妈妈，你乍么是屁股中间出血呢？&lt;/li&gt;
+&lt;li&gt;嗯！一定是你蔬菜不好好吃…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(&lt;code&gt;粑粑:&lt;/code&gt; ←_←神推理！！！！)&lt;/p&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-131206.html" rel="alternate"></link><updated>2013-12-06T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2013-12-06:niuniu/nnsay-131206.html</id><summary type="html">&lt;h1 id="131206"&gt;131206&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;小鸟在吱吱的说话！&lt;/li&gt;
+&lt;li&gt;它们在说什么？&lt;/li&gt;
+&lt;li&gt;在唱歌！&lt;/li&gt;
+&lt;li&gt;为什么？&lt;/li&gt;
+&lt;li&gt;叫我们起床！&lt;/li&gt;
+&lt;li&gt;为什么？&lt;/li&gt;
+&lt;li&gt;因为大公鸡没了！&lt;/li&gt;
+&lt;li&gt;为什么？&lt;/li&gt;
+&lt;li&gt;大公鸡被人抓走了…切了！&lt;/li&gt;
+&lt;li&gt;为…什么？！&lt;/li&gt;
+&lt;li&gt;因为鸡肉好吃！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(&lt;code&gt;粑粑:&lt;/code&gt; ←_←神展开！！！！)&lt;/p&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-131005.html" rel="alternate"></link><updated>2013-10-05T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2013-10-05:niuniu/nnsay-131005.html</id><summary type="html">&lt;h1 id="131005"&gt;131005&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;妈：妞，你能答应我一件事吗？&lt;/li&gt;
+&lt;li&gt;妞：行，没问题的，妈妈！&lt;/li&gt;
+&lt;li&gt;妈：你能不能不吃手啊？&lt;/li&gt;
+&lt;li&gt;妞：哎呀，这个很简单呀！&lt;/li&gt;
+&lt;li&gt;妈：（惊喜）真的？&lt;/li&gt;
+&lt;li&gt;妞：哎呀！肯定改不掉的啦！我从小吃到大的嘛！&lt;/li&gt;
+&lt;li&gt;妈：那你简单个溜溜球啊？&lt;/li&gt;
+&lt;li&gt;妞：哎呀！你别啰嗦了！好妈妈都会让宝宝吃手的！（随即，意图把手放进嘴里）&lt;/li&gt;
+&lt;li&gt;妈：砍死你！&lt;/li&gt;
+&lt;li&gt;妞：哇！（死嚎！）你不是我的好妈妈！（继续死豪！）你就不应该生我！&lt;/li&gt;
+&lt;li&gt;妈：滚去睡！[发怒]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(&lt;code&gt;粑粑:&lt;/code&gt; Orz...俺家每天都这样纸的哪....)&lt;/p&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-130930.html" rel="alternate"></link><updated>2013-09-30T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2013-09-30:niuniu/nnsay-130930.html</id><summary type="html">&lt;h1 id="130930"&gt;130930&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;哭是解决不了问题的！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(&lt;code&gt;粑粑:&lt;/code&gt; 并配合有握拳等等动作)&lt;/p&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-130921.html" rel="alternate"></link><updated>2013-09-21T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2013-09-21:niuniu/nnsay-130921.html</id><summary type="html">&lt;h1 id="130921"&gt;130921&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;妈妈，早知道，你就应该生个双胞胎！这样我就不会这么寂寞了！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(&lt;code&gt;粑粑:&lt;/code&gt; 喂!你才4岁哪!-)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;牛妞，拉完没？！&lt;/li&gt;
+&lt;li&gt;还用问嘛？！&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-130830.html" rel="alternate"></link><updated>2013-08-30T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2013-08-30:niuniu/nnsay-130830.html</id><summary type="html">&lt;h1 id="130830"&gt;130830&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;这是周老板的新宝宝，她今晚一直抱着她，然后哄她的宝宝睡觉，&lt;/li&gt;
+&lt;li&gt;台词是：宝宝，你睡觉吧，你还小，吃手手吧，你吃手我一定不会骂你的！[猪头]&lt;/li&gt;
+&lt;li&gt;这么小就知道含沙射影！是故意说给我听的吗？[鄙视]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(&lt;code&gt;粑粑:&lt;/code&gt; 喂!你才4岁哪!-)&lt;/p&gt;</summary></entry><entry><title>牛妞曰</title><link href="http://MOMOKO.in/niuniu/nnsay-130618.html" rel="alternate"></link><updated>2013-06-18T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2013-06-18:niuniu/nnsay-130618.html</id><summary type="html">&lt;h1 id="130618"&gt;130618&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;外婆:"今天跟谁睡哪"&lt;ul&gt;
+&lt;li&gt;nn:"当然跟妈妈了"&lt;/li&gt;
+&lt;li&gt;外婆:"昨天不是说,就算妈妈回来也跟我睡,永远不分离?"&lt;/li&gt;
+&lt;li&gt;nn:"那不是为了叫你睡个好觉嘛..."&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;nn 到22:00 也不睡,外婆生气,大骂一气摔门而出&lt;ul&gt;
+&lt;li&gt;nn 大声碎碎念:"外婆骂我是为我好,所以呢,,,"&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;妞妞：妈妈，你帮我把酸酸乳拿来&lt;/li&gt;
+&lt;li&gt;妈妈：我很忙，你自己去拿&lt;/li&gt;
+&lt;li&gt;妞妞：妈妈，你不是说很爱我的吗？你难道不能帮我拿一下吗？&lt;/li&gt;
+&lt;li&gt;妈妈：··##￥%￥……%……      &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;(&lt;code&gt;粑粑:&lt;/code&gt; 喂!你才4岁哪!-)&lt;/p&gt;</summary></entry><entry><title>纪念日</title><link href="http://MOMOKO.in/events/again-54.html" rel="alternate"></link><updated>2013-05-05T09:22:00+08:00</updated><author><name>momoko</name></author><id>tag:MOMOKO.in,2013-05-05:events/again-54.html</id><summary type="html">&lt;p&gt;2008年4月5号，
+清明节，
+你约我去烈士陵园，
+没有鲜花没有戒指，
+你说当着墓碑里烈士的灵魂向我许下承诺，
+你要照顾我一辈子，一起活到250岁！&lt;/p&gt;
+&lt;p&gt;那一年的我就像被你从死人堆里捡出来一样，
+已经对生活失去信心和憧憬，
+可是你还是在前行的道路上带上了有污点的我，
+除了感动就是想要对你加倍的好，
+我们一起奋斗，
+从租房到买房，
+从怀孕到生妞，
+从事业迷茫到义无反顾的支持我败家创业，
+各种对我任性，贪玩的包容，
+我们一起从0到5，
+从妞宝在肚子里第一次打嗝到现在我们每天都想打她屁股！&lt;/p&gt;
+&lt;p&gt;五年了，真快！&lt;/p&gt;
+&lt;p&gt;谢谢你给了我一个家，
+谢谢你给了我所有想要的一切！&lt;/p&gt;
+&lt;p&gt;家，有你有我有孩子才是家！
+家，不管多晚都亮着灯才是家！
+家，是一个圆，即便凹了一角我们还得把它磨平！
+250岁，记得你说的话！
+记得你的承诺！&lt;/p&gt;
+&lt;p&gt;[爱心]&lt;/p&gt;</summary></entry><entry><title>Zoom.Quiuet</title><link href="http://MOMOKO.in/family/zoomquiet.html" rel="alternate"></link><updated>2008-11-18T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2008-11-18:family/zoomquiet.html</id><summary type="html">&lt;h1 id="_1"&gt;粑粑&lt;/h1&gt;
 &lt;p&gt;&lt;img alt="ZQ" src="http://pyconcn.qiniudn.com/images/volunteer/zhouqi.png" /&gt;&lt;/p&gt;
 &lt;p&gt;Python中文社区创始人(之一) / 管理员,
 热心于 Python 等等社区的公益事业, 大家熟知的社区"大妈";&lt;/p&gt;
@@ -50,7 +172,7 @@ var timeline_config = {
 &lt;li&gt;G+:   https://plus.google.com/+ZoomQuiet/&lt;/li&gt;
 &lt;li&gt;Blog: http://blog.zoomquiet.org/&lt;/li&gt;
 &lt;li&gt;微博:  http://weibo.com/zoomquiet&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="people"></category></entry><entry><title>对错录</title><link href="http://MOMOKO.in/events/lo-vs-lo.html" rel="alternate"></link><updated>2008-07-24T00:00:00+08:00</updated><author><name>ZoomQuiet</name></author><id>tag:MOMOKO.in,2008-07-24:events/lo-vs-lo.html</id><summary type="html">
+&lt;/ul&gt;</summary></entry><entry><title>对错录</title><link href="http://MOMOKO.in/events/lo-vs-lo.html" rel="alternate"></link><updated>2008-07-24T00:00:00+08:00</updated><author><name>ZoomQuiet</name></author><id>tag:MOMOKO.in,2008-07-24:events/lo-vs-lo.html</id><summary type="html">
 &lt;p&gt;...via life&lt;/p&gt;
 &lt;h1 id="_1"&gt;冇好错&lt;/h1&gt;
 &lt;p&gt;真的哪,放开心灵去想和感受的话的确的哪...&lt;/p&gt;
@@ -193,4 +315,9 @@ var timeline_config = {
 &lt;li&gt;呔！  都这会儿了,猪!那我自杀就好!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;.. .. ..&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;火星人和水星人的碰面,只会令地球更加危险&lt;/strong&gt;&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;&lt;strong&gt;火星人和水星人的碰面,只会令地球更加危险&lt;/strong&gt;&lt;/p&gt;</summary></entry><entry><title>MoMoKo</title><link href="http://MOMOKO.in/family/momoko.html" rel="alternate"></link><updated>2008-05-05T00:00:00+08:00</updated><author><name>Zoom.Quiet</name></author><id>tag:MOMOKO.in,2008-05-05:family/momoko.html</id><summary type="html">&lt;h1 id="_1"&gt;麻麻&lt;/h1&gt;
+&lt;p&gt;江湖匪号: &lt;a href="http://blog.sina.com.cn/momokobb"&gt;丸子&lt;/a&gt;
+别称 &lt;code&gt;龙王&lt;/code&gt; (每次组织旅游活动必定下雨)
+的大美女...&lt;/p&gt;
+&lt;p&gt;大学专业是E文,作过酒店经理,游戏测试工程师,HR,企业文化总监,原创cafe品牌创始人...&lt;/p&gt;
+&lt;p&gt;目前主要形象是 &lt;code&gt;牛妞妈&lt;/code&gt;+&lt;code&gt;熊猫阿姨&lt;/code&gt; &lt;/p&gt;</summary></entry></feed>
