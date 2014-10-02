@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://MOMOKO.in/index.html</loc>
-<lastmod>2014-10-02T11:21:25-00:00</lastmod>
+<lastmod>2014-10-02T11:30:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://MOMOKO.in/archives.html</loc>
-<lastmod>2014-10-02T11:21:25-00:00</lastmod>
+<lastmod>2014-10-02T11:30:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://MOMOKO.in/categories.html</loc>
-<lastmod>2014-10-02T11:21:25-00:00</lastmod>
+<lastmod>2014-10-02T11:30:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://MOMOKO.in/niuniu/nnsay-141001.html</loc>
 <lastmod>2014-10-01T00:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://MOMOKO.in/niuniu/nnsay-140929.html</loc>
+<lastmod>2014-09-29T00:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://MOMOKO.in/niuniu/nnsay-140925.html</loc>
+<lastmod>2014-09-25T00:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://MOMOKO.in/niuniu/nnsay-140923.html</loc>
+<lastmod>2014-09-23T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
